@@ -23,6 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsam7-coder&layout=compact&theme=tokyonight" />
 </p>
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 
 -->
