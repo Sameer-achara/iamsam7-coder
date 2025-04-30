@@ -20,10 +20,10 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamsam7-coder&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsam7-coder&layout=compact&theme=tokyonight" />
-</p>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsam7-coder&layout=compact&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsam7-coder&layout=compact&theme=tokyonight&langs_count=6" />
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+</p>
 
 
 -->
