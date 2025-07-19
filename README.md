@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Frontend projects & UI design**
 - 🌱 I’m currently learning: **Python, Git, Responsive Web Design**
-- 👨‍💻 All of my projects are available at: [github.com/iamsam7-coder](https://github.com/iamsam7-coder)
+- 👨‍💻 All of my projects are available at: [github.com/sameer-achara](https://github.com/sameer-achara)
 - 📫 How to reach me: **sameerachara894@gmail.com**
 - ⚡ Fun fact: I write code that sometimes works on the first try 😄
 
