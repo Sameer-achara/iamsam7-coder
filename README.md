@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student | Learning to build cool things with code</h3>
 
 - 🔭 I’m currently working on: **Frontend projects & UI design**
-- 🌱 I’m currently learning: **JavaScript, Git, Responsive Web Design**
+- 🌱 I’m currently learning: **Python, Git, Responsive Web Design**
 - 👨‍💻 All of my projects are available at: [github.com/iamsam7-coder](https://github.com/iamsam7-coder)
 - 📫 How to reach me: **sameerachara894@gmail.com**
 - ⚡ Fun fact: I write code that sometimes works on the first try 😄
