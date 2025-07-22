@@ -21,6 +21,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=tokyonight&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&exclude_repo=portfolio,old-html-site&layout=compact" />
-
 </p>
+
+ ### 🧰 Tools I Use
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=white" />
