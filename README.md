@@ -21,4 +21,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&exclude_repo=portfolio,old-html-site&layout=compact" />
+
 </p>
