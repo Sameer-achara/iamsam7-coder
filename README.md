@@ -2,7 +2,7 @@
 
 # Hi, I'm Sam 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
 
 I am an **Engineering Student** passionate about **Python, AI/ML, Web Development, and Data Analysis**. I love building practical projects that solve real-world problems.
 
@@ -11,7 +11,7 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 ## 🔹 About Me
 
 - 🌱 Currently learning **Python, Pandas, NumPy, AI/ML, Power BI**
-- 💻 Exploring **Web Development and Full Stack Projects**
+- 💻 Exploring **A/ML World**
 - 🎯 Focused on **productivity tools, data-driven applications, and student-focused projects**
 - ⚡ Strength: Problem-solving, logical thinking, and structured coding
 - 🎵 Hobbies: Music, movies, and creative tech experiments
@@ -21,10 +21,10 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 ## 🔹 Skills
 
 ### Programming Languages
-`Python` | `C++` | `HTML` | `CSS` | `JavaScript`
+`Python` | `C++` | `HTML` | `CSS` | `c`
 
 ### Data & Analysis
-`NumPy` | `Pandas` | `Matplotlib` | `Power BI`
+`NumPy` | `Pandas` | 
 
 ### Tools & Platforms
 `Git` | `GitHub` | `VS Code` | `Excalidraw` | `Obsidian`
@@ -38,14 +38,15 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 - Finds class topper, last rank, and subject-wise toppers
 - Exports final results to Excel for reporting
 
-### 2. Anti-Distraction Student Tool
-- Helps students focus by minimizing distractions
-- Tracks study hours and productivity
+### 2. CLI Calculator
+- A simple command-line calculator built in Python
+- Supports All Type of Basic Calculators Functions
+- Focused on clean logic and beginner-friendly structure
 
-### 3. Music App Prototype
-- Built with HTML/CSS/JS
-- Custom music player interface and playlist functionality
-
+### 3. Quiz App
+- Python-based interactive quiz application
+- Asks multiple-choice questions and calculates score
+- Helps students practice and test their knowledge
 *(More projects coming soon...)*
 
 ---
@@ -60,9 +61,9 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 
 ## 🔹 Contact
 
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: sameerachara894@gmail.com  
+- 🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/sameer-achara-b06276359)  
+
 
 ---
 
