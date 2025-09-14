@@ -1,26 +1,69 @@
 
 
- <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Engineering Student | Learning to build cool things with code</h3>
+# Hi, I'm Sam 👋
 
-- 🔭 I’m currently working on: **Frontend projects & UI design**
-- 🌱 I’m currently learning: **Python, Git, Responsive Web Design**
-- 👨‍💻 All of my projects are available at: [github.com/sameer-achara](https://github.com/sameer-achara)
-- 📫 How to reach me: **sameerachara894@gmail.com**
-- ⚡ Fun fact: I write code that sometimes works on the first try 😄
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
+I am an **Engineering Student** passionate about **Python, AI/ML, Web Development, and Data Analysis**. I love building practical projects that solve real-world problems.
 
 ---
 
-### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+## 🔹 About Me
+
+- 🌱 Currently learning **Python, Pandas, NumPy, AI/ML, Power BI**
+- 💻 Exploring **Web Development and Full Stack Projects**
+- 🎯 Focused on **productivity tools, data-driven applications, and student-focused projects**
+- ⚡ Strength: Problem-solving, logical thinking, and structured coding
+- 🎵 Hobbies: Music, movies, and creative tech experiments
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+## 🔹 Skills
+
+### Programming Languages
+`Python` | `C++` | `HTML` | `CSS` | `JavaScript`
+
+### Data & Analysis
+`NumPy` | `Pandas` | `Matplotlib` | `Power BI`
+
+### Tools & Platforms
+`Git` | `GitHub` | `VS Code` | `Excalidraw` | `Obsidian`
+
+---
+
+## 🔹 Projects
+
+### 1. Student Result Analyzer
+- Calculates total marks, percentage, pass/fail, grades
+- Finds class topper, last rank, and subject-wise toppers
+- Exports final results to Excel for reporting
+
+### 2. Anti-Distraction Student Tool
+- Helps students focus by minimizing distractions
+- Tracks study hours and productivity
+
+### 3. Music App Prototype
+- Built with HTML/CSS/JS
+- Custom music player interface and playlist functionality
+
+*(More projects coming soon...)*
+
+---
+
+## 🔹 GitHub Stats
+
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+---
+
+## 🔹 Contact
+
+- 📧 Email: your-email@example.com  
+- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+*"Strive for progress, not perfection."* ✨
