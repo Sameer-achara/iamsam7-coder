@@ -53,16 +53,16 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 
 ## 🔹 GitHub Stats
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=dark)
 
 ---
 
 ## 🔹 Contact
 
 - 📧 Email: sameerachara894@gmail.com  
-- 🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/sameer-achara-b06276359)  
+- 🔗 LinkedIn: [www.linkedin.com/in/sameer-achara-b06276359](www.linkedin.com/in/sameer-achara-b06276359)  
 
 
 ---
