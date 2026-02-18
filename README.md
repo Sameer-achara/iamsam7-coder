@@ -11,7 +11,7 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 ## 🔹 About Me
 
 - 🌱 Currently learning **Python, Pandas, NumPy, AI/ML, Power BI**
-- 💻 Exploring **A/ML World**
+- 💻 Exploring **AI/ML World**
 - 🎯 Focused on **productivity tools, data-driven applications, and student-focused projects**
 - ⚡ Strength: Problem-solving, logical thinking, and structured coding
 - 🎵 Hobbies: Music, movies, and creative tech experiments
