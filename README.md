@@ -27,7 +27,7 @@ I am an **Engineering Student** passionate about **Python, AI/ML, Web Developmen
 `NumPy` | `Pandas` | 
 
 ### Tools & Platforms
-`Git` | `GitHub` | `VS Code` | `Excalidraw` | `Obsidian`
+`Git` | `GitHub` | `VS Code` 
 
 ---
 
