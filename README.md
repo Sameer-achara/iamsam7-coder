@@ -1,203 +1,370 @@
-<!-- HEADER BANNER -->
+<!-- ============================================================ -->
+<!--              SAMEER ACHARA — GITHUB PROFILE README           -->
+<!-- ============================================================ -->
+
+<!-- CAPSULE HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffff,50:ff00ff,100:0d0d0d&height=200&section=header&text=SAMEER%20ACHARA&fontSize=60&fontColor=00ffff&fontAlignY=55&animation=fadeIn&stroke=00ffff&strokeWidth=1&desc=AI%20%2F%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20Analyst&descAlignY=75&descSize=18&descColor=ff00ff" width="100%"/>
+
 <div align="center">
 
-```
-███████╗ █████╗ ███╗   ███╗███████╗███████╗██████╗
-██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝██╔══██╗
-███████╗███████║██╔████╔██║█████╗  █████╗  ██████╔╝
-╚════██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██╔══██╗
-███████║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<!-- ANIMATED TYPING BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=🤖+AI+%2F+ML+Engineer+in+the+making...;🐍+Python+is+my+native+language;📊+Turning+raw+data+into+real+insights;🔬+Training+models+%7C+Shipping+logic;💡+Engineering+Student+%7C+Building+the+future;⚡+One+commit+at+a+time+—+let's+go." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+Neural+Architect;Building+minds+from+math+%26+data;Training+models%2C+shipping+futures;Intelligence+is+engineered%2C+not+born." alt="Typing SVG" />
+<br/><br/>
 
-<br/>
-
-![Visitor Badge](https://visitor-badge.liteflare.com/badge?page_id=Sameer-achara.Sameer-achara&color=00ffff)
-[![GitHub followers](https://img.shields.io/github/followers/Sameer-achara?style=flat&color=00ffff&labelColor=0d0d0d&logo=github)](https://github.com/Sameer-achara)
-![Profile Views](https://komarev.com/ghpvc/?username=Sameer-achara&color=00ffff&style=flat&label=NEURAL+PINGS)
+<!-- BADGES ROW -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0d0d0d)](https://www.linkedin.com/in/sameer-achara-b06276359)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=0d0d0d)](mailto:sameerachara894@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0d0d0d)](https://github.com/sameer-achara)
+![Profile Views](https://komarev.com/ghpvc/?username=sameer-achara&color=00ffff&style=for-the-badge&label=NEURAL+PINGS)
 
 </div>
 
 ---
 
-<!-- ABOUT SECTION -->
+<!-- ABOUT SECTION — TERMINAL STYLE -->
 <div align="center">
 
-## ◈ `SYSTEM_IDENTITY.json` ◈
+## `> SYSTEM_IDENTITY.boot`
 
 </div>
 
-```json
-{
-  "operator"     : "Sameer-achara",
-  "designation"  : "AI / ML Engineer",
-  "status"       : "ONLINE ██████████ 100%",
-  "location"     : "India 🇮🇳",
-  "mission"      : "Engineering intelligence at the edge of what's possible",
-  "philosophy"   : "Data is the new dark matter — it shapes everything, seen by few",
-  "current_run"  : "Training next-gen models & building AI-first products",
-  "availability" : "Open to collabs | Open to chaos | Open to building the future"
-}
+```yaml
+╔══════════════════════════════════════════════════════════════════╗
+║  OPERATOR   :  sameer-achara                                     ║
+║  ROLE       :  Engineering Student → AI/ML Engineer              ║
+║  LOCATION   :  India 🇮🇳                                         ║
+║  STATUS     :  ONLINE  ████████████████████  100%               ║
+║  INTERESTS  :  Python · AI/ML · Data Analysis · Web Dev          ║
+║  STRENGTHS  :  Problem Solving · Logic · Structured Coding       ║
+║  OFFLINE    :  Music 🎵 · Movies 🎬 · Creative Tech ⚡            ║
+║  DIRECTIVE  :  "Strive for progress, not perfection."            ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- SKILLS MATRIX -->
+<!-- RANDOM DEV QUOTE GENERATOR -->
 <div align="center">
 
-## ◈ `SKILLS_MATRIX.sys` ◈
+## `> QUOTE_OF_THE_CYCLE.random`
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+> 🔁 *Generates a new random dev quote every time your profile is visited*
 
 </div>
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+---
 
-### 🧠 &nbsp;AI / ML Core
-![Python](https://img.shields.io/badge/Python-00FFFF?style=flat-square&logo=python&logoColor=0d0d0d)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6B6B?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8C00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00FFCC?style=flat-square&logo=chainlink&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<!-- SKILLS — ANIMATED PROGRESS BARS -->
+<div align="center">
 
-</td>
-<td valign="top" width="33%">
+## `> SKILL_LEVEL_SCAN.exe`
 
-### ⚡ &nbsp;MLOps / Infra
-![Docker](https://img.shields.io/badge/Docker-00D4FF?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FFCC?style=flat-square&logo=fastapi&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+</div>
 
-</td>
-<td valign="top" width="33%">
+### 🧠 &nbsp;AI / ML Proficiency Matrix
 
-### 🔬 &nbsp;Data & Research
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=00FFFF)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FF69B4)
-![SQL](https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=0d0d0d)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=00FFFF)
-![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+| Skill | Progress | Level |
+|:------|:---------|------:|
+| 🐍 Python | `████████████████████░░░░` | **80%** |
+| 🤖 Machine Learning | `███████████████░░░░░░░░░` | **60%** |
+| 📊 Pandas / NumPy | `████████████████████░░░░` | **80%** |
+| 🧪 Data Preprocessing | `████████████████░░░░░░░░` | **65%** |
+| 📈 Data Visualization | `██████████████░░░░░░░░░░` | **55%** |
+| 🌐 HTML / CSS | `████████████░░░░░░░░░░░░` | **50%** |
+| ⚙️ C / C++ | `████████████░░░░░░░░░░░░` | **50%** |
+| 🔧 Git / GitHub | `████████████████████░░░░` | **80%** |
+| 📊 Power BI | `██████████░░░░░░░░░░░░░░` | **40%** |
 
-</td>
-</tr>
+---
+
+<!-- TECH STACK -->
+<div align="center">
+
+## `> TECH_STACK_MATRIX.sys`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=0d0d0d)
+![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-FF8C00?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00FFCC?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data & AI/ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-00FFFF?style=for-the-badge&logo=numpy&logoColor=0d0d0d)
+![Pandas](https://img.shields.io/badge/Pandas-FF00FF?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00FFCC?style=for-the-badge&logo=python&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=0d0d0d)
+![VS Code](https://img.shields.io/badge/VS_Code-FF00FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-00FFCC?style=for-the-badge&logo=microsoft-excel&logoColor=black)
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+## `> FEATURED_PROJECTS.load`
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Student Result Analyzer</h3>
+      <div align="center">
+        <a href="https://github.com/sameer-achara">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-%3E%3E-00ffff?style=for-the-badge&labelColor=0d0d0d"/>
+        </a>
+      </div>
+      <br/>
+      <p>A Python-based result management system automating student performance tracking end-to-end.</p>
+      <ul>
+        <li>📊 Calculates marks, percentage, grades & pass/fail</li>
+        <li>🏆 Identifies class toppers & subject-wise rankings</li>
+        <li>📁 Auto-exports final results to <strong>Excel</strong></li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-00FFFF?style=flat-square&logo=python&logoColor=0d0d0d"/>
+        <img src="https://img.shields.io/badge/Pandas-FF00FF?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-00FFCC?style=flat-square&logo=microsoft-excel&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Interactive Quiz App</h3>
+      <div align="center">
+        <a href="https://github.com/sameer-achara">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-%3E%3E-ff00ff?style=for-the-badge&labelColor=0d0d0d"/>
+        </a>
+      </div>
+      <br/>
+      <p>An interactive Python quiz application for student self-assessment and knowledge testing.</p>
+      <ul>
+        <li>❓ MCQs with real-time score tracking</li>
+        <li>📚 Helps students practice & measure progress</li>
+        <li>🐍 Clean interactive flow built purely in Python</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-00FFFF?style=flat-square&logo=python&logoColor=0d0d0d"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 CLI Calculator</h3>
+      <div align="center">
+        <a href="https://github.com/sameer-achara">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-%3E%3E-00ffcc?style=for-the-badge&labelColor=0d0d0d"/>
+        </a>
+      </div>
+      <br/>
+      <p>A clean command-line calculator with focus on logic, structure and user interaction.</p>
+      <ul>
+        <li>➕ Full suite of basic calculator operations</li>
+        <li>🔤 Beginner-friendly, well-structured codebase</li>
+        <li>⚡ Focused on clean logic and crisp UX</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-00FFFF?style=flat-square&logo=python&logoColor=0d0d0d"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 [NEXT PROJECT — LOADING...]</h3>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=300&lines=Building+something+big...;ML+model+deployment+incoming...;Stay+tuned+⚡" />
+      </div>
+      <br/>
+      <ul>
+        <li>🤖 End-to-end ML project in progress</li>
+        <li>🌐 Full-stack AI-powered web app</li>
+        <li>📊 Power BI dashboard project</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-ff8c00?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- CURRENT PROJECTS -->
+<!-- WAKATIME CODING STATS -->
 <div align="center">
 
-## ◈ `ACTIVE_PROCESSES.log` ◈
+## `> WAKATIME_CODING_STATS.live`
 
 </div>
 
-```bash
-$ ps aux --format=pid,name,status,description | grep sameer
+<!--START_SECTION:waka-->
+```text
+📡 Weekly Coding Activity — Powered by WakaTime
 
-[PID 001] 🔴 RUNNING  → Fine-tuning LLMs for domain-specific reasoning
-[PID 002] 🟡 RUNNING  → RAG pipeline with multi-modal retrieval
-[PID 003] 🟢 RUNNING  → Real-time anomaly detection system (edge deployment)
-[PID 004] 🔵 RUNNING  → Building AI agents that actually do things
-[PID 005] 🟣 STANDBY  → Open-source ML tooling — dropping soon ⚡
+Python       ██████████████████░░░░░░░   72%  ████ Primary Stack
+HTML/CSS     ████░░░░░░░░░░░░░░░░░░░░░   14%
+C/C++        ██░░░░░░░░░░░░░░░░░░░░░░░    8%
+Jupyter      █░░░░░░░░░░░░░░░░░░░░░░░░    4%
+Markdown     ░░░░░░░░░░░░░░░░░░░░░░░░░    2%
 ```
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+> ⚙️ *Enable live stats: connect [wakatime.com](https://wakatime.com) → add the [waka-readme GitHub Action](https://github.com/athul/waka-readme)*
+
+</div>
 
 ---
 
-<!-- STATS -->
+<!-- 3D CONTRIBUTION GRAPH -->
 <div align="center">
 
-## ◈ `NEURAL_STATS.exe` ◈
+## `> 3D_CONTRIBUTION_GRID.render`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer-achara&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_color=00ffff&border_radius=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameer-achara/sameer-achara/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameer-achara/sameer-achara/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sameer-achara/sameer-achara/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-achara&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_color=00ffff&border_radius=8" />
+> 🐍 *Snake eating through the contribution grid — every green square = a commit consumed*
+>
+> ⚙️ *Activate it: add [Platane/snk](https://github.com/Platane/snk) GitHub Action to generate the SVG automatically*
+
+</div>
+
+---
+
+<!-- GITHUB STATS BLOCK -->
+<div align="center">
+
+## `> NEURAL_STATS.exe`
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&bg_color=0d0d0d&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&border_color=00ffff&border_radius=8&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_color=00ffff&border_radius=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-achara&theme=dark&background=0d0d0d&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&border=00ffff&stroke=00ffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-achara&background=0d0d0d&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ffffff&dates=888888&border=00ffff" />
 
 </div>
-
----
-
-<!-- GITHUB ACTIVITY -->
-<div align="center">
-
-## ◈ `COMMIT_GRID.render` ◈
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer-achara&bg_color=0d0d0d&color=00ffff&line=ff00ff&point=ffffff&area=true&area_color=00ffff&border_color=00ffff" />
-
-</div>
-
----
-
-<!-- PHILOSOPHY -->
-<div align="center">
-
-## ◈ `CORE_DIRECTIVES.md` ◈
-
-</div>
-
-> **`[DIRECTIVE_01]`** &nbsp; Build models that generalize, not memorize.
->
-> **`[DIRECTIVE_02]`** &nbsp; Ship fast. Iterate faster. Evaluate obsessively.
->
-> **`[DIRECTIVE_03]`** &nbsp; Open source is not a strategy — it's a superpower.
->
-> **`[DIRECTIVE_04]`** &nbsp; The best AI product is the one nobody notices running.
->
-> **`[DIRECTIVE_05]`** &nbsp; Sleep is just offline training. Never skip it.
 
 ---
 
 <!-- TROPHIES -->
 <div align="center">
 
-## ◈ `ACHIEVEMENTS_UNLOCKED` ◈
+## `> ACHIEVEMENTS_UNLOCKED.exe`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sameer-achara&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sameer-achara&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
 ---
 
-<!-- CONNECT -->
+<!-- ACTIVITY GRAPH -->
 <div align="center">
 
-## ◈ `ESTABLISH_CONNECTION.sh` ◈
+## `> COMMIT_TIMELINE.graph`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&bg_color=0d0d0d&color=00ffff&line=ff00ff&point=ffffff&area=true&area_color=00ffff&border_color=00ffff" width="100%"/>
+
+</div>
+
+---
+
+<!-- CURRENT GOALS — HACKER CHECKLIST -->
+<div align="center">
+
+## `> MISSION_OBJECTIVES.log`
+
+</div>
 
 ```bash
-$ ssh sameer-achara@network --protocol=human
-> Connecting to sameer-achara... ████████████ LINKED ✓
-> Choose your channel:
+$ cat /home/sameer/goals.txt
+
+  [██░░░░░░░░]  🤖  Build & deploy a complete ML project end-to-end
+  [████░░░░░░]  🌐  Create a full-stack AI-powered Web Application
+  [██████░░░░]  📊  Master Power BI for data visualization
+  [████░░░░░░]  🧠  Deep dive into Deep Learning & Neural Networks
+  [██░░░░░░░░]  🌍  Contribute to Open Source projects
+  [████████░░]  🐍  Achieve Python mastery across all domains
+  [██░░░░░░░░]  🚀  Deploy first ML model to production
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0d0d0d)](https://linkedin.com/in/Sameer-achara)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FFFF&labelColor=0d0d0d)](https://twitter.com/Sameer-achara)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=00FFFF&labelColor=0d0d0d)](https://kaggle.com/Sameerachara)
-[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:sameerachara894@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0d0d)](https://Sameer-achara.dev)
+---
+
+<!-- FUN FACTS — EASTER EGG SECTION -->
+<div align="center">
+
+## `> FUN_FACTS.random`
+
+</div>
+
+```python
+import random
+
+sameer_facts = [
+    "🎵  I debug better with lo-fi music playing in the background",
+    "🧠  I once spent 3 hours debugging — the bug was a missing comma",
+    "☕  My productivity is directly proportional to chai consumption",
+    "🌙  Best code I've written: 11 PM to 2 AM, no exceptions",
+    "📊  I get genuinely excited looking at a clean, well-labeled dataset",
+    "🤖  My first ML model had 0.51 accuracy — basically a coin flip",
+    "🎬  I relate every movie plot to a machine learning problem",
+    "💡  I name my variables better than I name my projects",
+]
+
+print(f"⚡ Random fact: {random.choice(sameer_facts)}")
+# → Output changes every visit. Just like the real me.
+```
+
+---
+
+<!-- CONNECT SECTION -->
+<div align="center">
+
+## `> ESTABLISH_CONNECTION.sh`
+
+```bash
+$ ssh sameer@neural-network --handshake=human
+> Initializing contact protocol...
+> Authenticating... ████████████████████████ LINKED ✓
+> All channels open. Choose your frequency ↓
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0d0d0d)](https://www.linkedin.com/in/sameer-achara-b06276359)
+[![Gmail](https://img.shields.io/badge/Gmail-Message-D14836?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=0d0d0d)](mailto:sameerachara894@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0d0d0d)](https://github.com/sameer-achara)
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "The algorithm doesn't care about your excuses.        ║
-║    Neither do I. Ship the model."                        ║
-║                                    — sameer-achara       ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "The algorithm doesn't care about your excuses.                ║
+║    Neither do I. Build the model. Ship the code."                ║
+║                                                                  ║
+║                                         — sameer-achara  ⚡      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=100&section=footer&text=&fontSize=0" />
+⭐ **If you find my work interesting, star my repos — it genuinely means a lot!** ⭐
 
 </div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:0d0d0d&height=120&section=footer" width="100%"/>
